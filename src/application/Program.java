@@ -51,6 +51,7 @@ public class Program {
 			double valorSaque= sc.nextDouble();
 			funcoes.saque(valorSaque);
 			System.out.println("Dados da conta atualizados.");
+			System.out.println("Por favor, retire o seu dinheiro.");
 			System.out.println(funcoes);
 			break;
 		case 3:
